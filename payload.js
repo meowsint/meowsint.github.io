@@ -1,1 +1,1 @@
-alert("XSS by Meowsint!");
+alert(document.domain);
